@@ -6,7 +6,7 @@ O **Jogo do Número Secreto** é uma aplicação simples desenvolvida como parte
 
 ## 📑Funcionalidades
 
-- O usuário insere um número no campo **"Chutar"** e clica em **"Chutar"**.
+- O usuário insere um número no campo **"Caixa de texto"** e clica em **"Chutar"**.
 - O computador indica se o número é **maior** ou **menor**.
 - O usuário continua tentando até acertar.
 - Opção de iniciar um **Novo Jogo** para reiniciar com um número secreto diferente.
