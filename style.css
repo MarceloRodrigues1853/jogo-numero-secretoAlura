@@ -92,8 +92,9 @@ body::before {
 
 h1 {
     font-family: 'Chakra Petch', sans-serif;
-    font-size: 72px;
+    font-size: 60px;
     padding-bottom: 3rem;
+    color: #0970ee;
 }
 
 p,
@@ -110,7 +111,13 @@ button:disabled {
     background-color: gray;
 }
 
-@media screen and (max-width: 1250px) {
+img {
+    display: flex;
+    width: 500px;
+    height: auto;
+}
+
+@media screen and (max-width: 1000px) {
 
     h1 {
         font-size: 50px;
@@ -136,5 +143,161 @@ button:disabled {
 
     .container__informacoes {
         padding: 1rem
+    }
+}
+
+@media screen and (max-width: 999px) {
+
+    h1 {
+        font-size: 50px;
+    }
+
+    .container__botao {
+        font-size: 16px;
+    }
+
+
+    .texto__paragrafo {
+        font-size: 24px;
+    }
+
+    .container__imagem-pessoa {
+        display: flex;
+        width: 400px;
+    }
+
+    .container__conteudo {
+        display: block;
+        position: inherit;
+    }
+
+    .container__informacoes {
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width: 770px) {
+
+    h1 {
+        font-size: 50px;
+    }
+
+    .container__botao {
+        font-size: 16px;
+    }
+
+
+    .texto__paragrafo {
+        font-size: 24px;
+    }
+
+    .container__imagem-pessoa {
+        display: flex;
+        width: 300px;
+    }
+
+    .container__conteudo {
+        display: block;
+        position: inherit;
+    }
+
+    .container__informacoes {
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width: 511px) {
+
+    h1 {
+        font-size: 50px;
+        padding-left: 3rem;
+    }
+
+    .container__botao {
+        font-size: 16px;
+    }
+
+
+    .texto__paragrafo {
+        font-size: 24px;
+    }
+
+    .container__imagem-pessoa {
+        display: flex;
+        width: 200px;
+    }
+
+    .container__conteudo {
+        display: block;
+        position: inherit;
+    }
+
+    .container__informacoes {
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width: 390px) {
+
+    h1 {
+        font-size: 30px;
+        padding-left: 1rem;
+        margin-top: 1rem;
+    }
+
+    .container__botao {
+        font-size: 16px;
+    }
+
+
+    .texto__paragrafo {
+        font-size: 16px;
+    }
+
+    .container__imagem-pessoa {
+        display: flex;
+        width: 170px;
+    }
+
+    .container__conteudo {
+        display: block;
+        position: inherit;
+    }
+
+    .container__informacoes {
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width: 280px) {
+
+    h1 {
+        font-size: 30px;
+        padding-left: 1rem;
+        margin-top: 2rem;
+    }
+
+    .container__botao {
+        font-size: 10px;
+    }
+
+
+    .texto__paragrafo {
+        font-size: 14px;
+    }
+
+    .container__imagem-pessoa {
+        display: flex;
+        width: 100px;
+    }
+
+    .container__conteudo {
+        display: block;
+        position: inherit;
+        width: 220px;
+    }
+
+    .container__informacoes {
+        padding: 1rem;
     }
 }
