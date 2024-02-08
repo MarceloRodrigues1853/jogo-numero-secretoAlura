@@ -269,7 +269,7 @@ img {
     }
 }
 
-@media screen and (max-width: 280px) {
+@media screen and (max-width: 360px) {
 
     h1 {
         font-size: 30px;
@@ -278,12 +278,12 @@ img {
     }
 
     .container__botao {
-        font-size: 10px;
+        font-size: 8px;
     }
 
 
     .texto__paragrafo {
-        font-size: 14px;
+        font-size: 12px;
     }
 
     .container__imagem-pessoa {
@@ -298,6 +298,7 @@ img {
     }
 
     .container__informacoes {
-        padding: 1rem;
+        padding: 1rem ;
+        width: 260px;
     }
 }
