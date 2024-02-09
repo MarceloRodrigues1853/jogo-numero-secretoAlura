@@ -2,7 +2,7 @@
 
 ## 📜Descrição
 
-O **Jogo do Número Secreto** é uma aplicação simples desenvolvida como parte do curso de **Introdução à Programação** da Alura. O usuário tenta adivinhar um número aleatório entre 1 e 10.
+O **Jogo do Número Secreto** é uma aplicação simples desenvolvida como parte do curso de **Lógica da Programação** da Alura. O usuário tenta adivinhar um número aleatório entre 1 e 10.
 
 ## 📑Funcionalidades
 
@@ -10,6 +10,11 @@ O **Jogo do Número Secreto** é uma aplicação simples desenvolvida como parte
 - O computador indica se o número é **maior** ou **menor**.
 - O usuário continua tentando até acertar.
 - Opção de iniciar um **Novo Jogo** para reiniciar com um número secreto diferente.
+
+## 🔧 Modificações
+- Mudança de personagem utilizando um pesogem cria por IA
+- Mudança de com no título
+- Responsividade para celulares
 
 ## 🎮Acesse o Jogo
 
