@@ -12,7 +12,7 @@ O **Jogo do Número Secreto** é uma aplicação simples desenvolvida como parte
 - Opção de iniciar um **Novo Jogo** para reiniciar com um número secreto diferente.
 
 ## 🔧 Modificações
-- Mudança de personagem utilizando um pesogem cria por IA
+- Mudança de personagem utilizando um Avatar criado por IA
 - Mudança de com no título
 - Responsividade para celulares
 
